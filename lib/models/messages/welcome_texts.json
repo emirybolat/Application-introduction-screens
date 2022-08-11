@@ -1,0 +1,92 @@
+[{
+    "welcomeScreen1": [{
+        "stop_bro_dont_pass": "Dur kardeşim, geçme",
+        "welcome_to_teen_browser": "Teen Browser'a hoş geldin.",
+        "let_me_tell_you_about_teen_browser": "Teen Browser'ı anlatmama izin ver.",
+        "alert_head_are_you_sure": "Emin misin?",
+        "alert_description_are_you_sure": "Olm o kadar tanıtım sayfası hazırladım, nolcak 2 dakika okusan? \n\nTanıtımı geçmek istediğine emin misin?"
+    }],
+    "welcomeScreen2": [{
+        "head": "Gizli ve güvenli",
+        "image": "assets/SecureAndHiddenIcon.png",
+        "description": "Gizliliğe ve güvenliğe siz ne kadar önem veriyorsanız, biz de o kadar önem veriyoruz 🛡️ "
+    }],
+    "welcomeScreen3": [{
+        "head": "Basit, Özelleştirilebilir Arayüz",
+        "image": "assets/ClearInterfaceIcon.png",
+        "description_1": "Zoro",
+        "description_2": "gibi kaybolmaman için rehberin olacağız! Basit ve özelleştirilebilir bir arayüz ile birlikte özgürlüğünüzün tadını çıkarın! ⚙️"
+    }],
+    "welcomeScreen4": [{
+        "head": "Nadir Özellikler",
+        "image": "assets/UncommonFeaturesIcon.png",
+        "description": "Örneğin resimden yazı kopyalama, çok havalı değil mi? Evet, onu da ekledik 😏"
+    }],
+    "welcomeScreen5": [{
+        "head": "Genç Squad!",
+        "image": "assets/SquadIcon.png",
+        "description": "Gençlerin halinden gençler anlar dedik, böyle bir işe giriştik, desteklerinizi ve geri bildirimlerinizi esirgemeyin!\n\nŞu anlık en iyisi değiliz ama en iyi olacağız 😎"
+    }],
+    "welcomeScreen6": [{
+        "head": "Support",
+        "image": "assets/HelpIcon.png",
+        "description": "Teen Browser ile ilgili yardım mesajını bekliyor olacağız ✋"
+    }],
+    "welcomeScreen7": [{
+        "head": "Tanıtım bitti :) O halde haydi hesabını oluşturalım!"
+    }],
+    "welcomeScreen8": [{
+        "head": "Adın",
+        "TextFieldLabelText": "Adım",
+        "description": "Hitap edebilmek adına ismini öğrenebilir miyim?",
+        "alert_head_error": "Hata",
+        "alert_description_error": "Alt tarafı adını istiyorum be aga, çok bir şey istemiyorum.",
+        "alert_actions_ok_button": "Ağlama tamam"
+    }],
+    "welcomeScreen9": [{
+        "head": "Soyadın",
+        "TextFieldLabelText": "Soyadım",
+        "description": "Sana zahmet bir de soyadını gir.",
+        "alert_head_error": "Hata",
+        "alert_description_error": "Sadece soyadını istiyorum? Adına şirket açmayacağım, merak etme.",
+        "alert_actions_ok_button": "Tamam"
+    }],
+    "welcomeScreen10": [{
+        "head": "Email",
+        "TextFieldLabelText": "Email",
+        "description": "Hesabını oluşturabilmemiz için aktif bir email adresi gerekiyor.",
+        "alert_head_error": "Hata",
+        "alert_description_error": "Email adresinin girilmesi zorunludur.",
+        "alert_actions_error_ok_button": "Anladım",
+        "alert_head_email_error": "Hata",
+        "alert_description_email_error": "Girdiğiniz email adresi geçersiz. Lütfen geçerli bir email adresi gir.",
+        "alert_actions_email_error_ok_button": "Tamam"
+    }],
+    "welcomeScreen11": [{
+        "head": "Şifre",
+        "TextFieldLabelText": "Şifrem",
+        "head_2": "Şifreni Doğrula",
+        "description": "Hesabın için güvenli bir şifre belirle.",
+        "alert_head_error": "Hata",
+        "alert_description_error": "Şifreni yazmalı ve doğrulamalısın.",
+        "alert_actions_okey_button": "Anladım abe",
+        "alert_head_password_length_error": "Hata",
+        "alert_description_password_length_error": "Şifrenin en az 6 karakterden oluşmalıdır.",
+        "alert_actions_password_length_error_ok_button": "Tamam"
+    }],
+    "welcomeScreen12": [{
+        "head": "Telefon Numarası",
+        "alert_head_information": "Bilgi",
+        "alert_description_information": "Telefon numaranı girmek zorunda değilsin. Fakat şunu hatırlatmak istiyoruz: Hesabını kaybettiysen, veya hesabın çalındıysa, telefon numarası ile çözüm sürecini kısaltabilirsin. \n\n05xx ile başlayarak 11 haneli numaranızı girin.",
+        "alert_actions_ok_button": "Tamam",
+        "TextFieldLabelText": "Telefon Numaram",
+        "description": "Detaylı bilgi için 'Telefon Numarası' başlığının yanındaki bilgilendirme ikonuna tıklayın.",
+        "alert_head_error": "Hata",
+        "alert_description_error": "Lütfen 11 haneli bir telefon numarası gir.",
+        "alert_actions_okey_button": "Anladım"
+    }],
+    "welcomeScreen13": [{
+        "image": "assets/ready.jpg",
+        "content": "Her şeyi senin için hazır hale getiriyorum..."
+    }]
+}]
