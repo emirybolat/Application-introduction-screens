@@ -12,14 +12,14 @@ Just download the codes and adapt them to your project.
 
 # `pub.dev` Packages You Need To Download
 
-- animated_text_kit
-- flutter_lints
-- get
-- ezanimation
-- assets_audio_player
-- alert
-- email_validator
-- flutter_secure_storage
+- `animated_text_kit`
+- `flutter_lints`
+- `get`
+- `ezanimation`
+- `assets_audio_player`
+- `alert`
+- `email_validator`
+- `flutter_secure_storage`
 
 # Information
 
